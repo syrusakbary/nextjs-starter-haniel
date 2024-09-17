@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: syrusakbary-nextjs-starter-haniel
+owner: syrusakbary
+package: .
